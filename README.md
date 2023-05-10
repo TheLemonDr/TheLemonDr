@@ -2,7 +2,7 @@
 
 Hi!  
 
-<img src="https://github.com/TheLemonDr/TheLemonDr/assets/120197740/03df5033-320a-4d57-8c47-54df069ba971" height="100px" width="100px"
+<img src="https://github.com/TheLemonDr/TheLemonDr/assets/120197740/03df5033-320a-4d57-8c47-54df069ba971" height="100px" width="100px">
 
 I'm Dr. Lemon!  I code _or something like that_ . . .
 
