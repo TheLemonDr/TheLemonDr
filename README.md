@@ -13,4 +13,4 @@ I am the owner of <a href="https://lemonsphere.github.io">DataSphere</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-Lemon&show_icons=true&theme=radical) 
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
