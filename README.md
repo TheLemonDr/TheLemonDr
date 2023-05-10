@@ -10,7 +10,7 @@ I can help you with your projects, if you want.  Just add me to the repo, and le
 
 I am the owner of <a href="https://lemonsphere.github.io">DataSphere</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-Lemon&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLemonDr&show_icons=true&theme=tokyonight) 
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLemonDr&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
