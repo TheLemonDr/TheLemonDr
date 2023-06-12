@@ -8,7 +8,7 @@ I'm Dr. Lemon!  I code _or something like that_ . . .
 
 I can help you with your projects, if you want.  Just add me to the repo, and let me know in some way, shape, or form.
 
-I am the owner of <a href="https://lemonsphere.github.io">DataSphere</a>
+I am the owner of <a href="https://synthosphere.github.io">SynthoSphere</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLemonDr&show_icons=true&theme=tokyonight) 
 
